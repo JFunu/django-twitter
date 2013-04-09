@@ -2,7 +2,7 @@ body {
 	margin: 40 px;
 }
 
-img {
+.span1 img {
 border:1px solid #fefefe;
 border-radius: 6px;
 }
